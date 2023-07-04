@@ -4,7 +4,7 @@ print("opening origin.py")
 with open('origin.txt', 'r') as in_stream:
     print('Opening origin.txt')
 #open the file exercise_output.txt in write mode and assign the file object to the variable out_stream
-    with open('origin_excercice_output.txt', 'w') as out_stream:
+    with open('origin_excercise_output.txt', 'w') as out_stream:
 #iterate over the lines, for each line:
 #strip the line of whitespace.
 #split the line into a list of words.
