@@ -119,6 +119,7 @@ Now, let's create a new file and write a line in it:
 >>> new_file = open('my-new-file.txt', 'w')
 >>> new_file.write('Hello, this is my new file!')
 >>> new_file.close()
+
 ```
 
 Quit out of the Python interpreter:
